@@ -1,5 +1,7 @@
-body{
-	margin: 0;
-	background: pink;
-	text-align: center;
+textarea
+{
+    overflow-y:scroll;
+}
+h1 {
+  text-align: center;
 }
